@@ -31,6 +31,8 @@ In this NotebookI will talk about how one can create an NLP to detect whether th
 <p>Develop solutions</p>
 <ul>
 <li>Establish model</li>
+  <li>Multinomial Classifier with Hyperparameter</li>
+  <li>Build GRU Neural Network</li>
 <li>Hyperparameter Tuning &amp; Optimization</li>
 <li>Best model</li>
 </ul>
